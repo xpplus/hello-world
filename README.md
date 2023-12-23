@@ -34,3 +34,12 @@ Heading level 2
 ***
 ---
 ___
+
+超链接Markdown语法代码：[超链接显示名](超链接地址 "超链接title")  
+这是一个链接 [Markdown语法](https://markdown.com.cn)。
+
+插入图片Markdown语法代码：[![图片alt](图片链接 "图片title")](图片超链接)。  
+![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+
+要显示原本用于格式化 Markdown 文档的字符，请在字符前面添加反斜杠字符 \ 。  
+\*
